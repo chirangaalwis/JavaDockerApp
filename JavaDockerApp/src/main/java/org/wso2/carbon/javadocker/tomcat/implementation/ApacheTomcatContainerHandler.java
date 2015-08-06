@@ -214,8 +214,4 @@ public class ApacheTomcatContainerHandler implements IApacheTomcatContainerHandl
         inputThread.run();
         return inputThread.getFileContent();
     }
-
-    // TODO: check for a better alternative to identify the name of the Docker Image from the id
-    // TODO: check why diamond types are not supported at this language level when using ArrayList
-    // TODO: *** Learn JSON ***
 }

@@ -19,7 +19,7 @@ import java.util.List;
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-public class FileOutput {
+class FileOutput {
 
     // Formatter to output text to a specified file
     private Formatter output;

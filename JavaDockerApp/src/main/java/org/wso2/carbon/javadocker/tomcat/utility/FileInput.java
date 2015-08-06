@@ -22,7 +22,7 @@ import java.util.Scanner;
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-public class FileInput {
+class FileInput {
     // Scanner instance which reads data from the specified file
     private Scanner input;
 
